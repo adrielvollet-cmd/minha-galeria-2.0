@@ -32,7 +32,7 @@ margin: auto; /* Margem*/
 
 .imagem img {
 
-width: 1000%;
+width: 360%;
 max-width: 100000000000px; /* define a largura*/
 height: auto; /*define a altura*/
 justify-self: center;
