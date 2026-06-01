@@ -1,7 +1,8 @@
 body{
 margem: 0; /*remover uma margem*/
 
-cor de fundo: rgb(31, 130, 97); /*Muda a cor do fundo*/
+
+background: rgb(31, 130, 97);  /*Muda a cor do fundo*/
 
 font-family: Arial, Helvetica, sans-serif; /* Tipo da letra*/
 
@@ -32,10 +33,10 @@ margin: auto; /* Margem*/
 .imagem img {
 
 width: 50%;
-max-width: 10000000px /* define a largura*/
+max-width: 10000000px; /* define a largura*/
 height: auto; /*define a altura*/
 justify-self: center;
 
-
+}
 
 
